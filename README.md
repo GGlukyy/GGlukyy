@@ -65,6 +65,4 @@ Gaming market research · benchmarking gaming programmes across financial instit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GGlukyy&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" height="150">
-</p>
 
-<p align="center"><i>Indie & AAA games · Firewatch · Road 96 · Fitness · PC hardware & AI</i></p>
