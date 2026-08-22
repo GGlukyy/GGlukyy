@@ -40,10 +40,10 @@
 
 ### 🚧 Selected projects
 
-**🔦 3D FPS Horror Game** — *Unity · exam project*
+** 3D FPS Horror Game** — *Unity · exam project*
 Full solo development of a horror game set in a metro environment: game mechanics, level design and atmosphere building.
 
-**🗺️ 2D Level Design** — *Unity*
+** 2D Level Design** — *Unity*
 Design and implementation of a complete 2D game level — environment layout, traversal and pacing.
 
 **🎞️ Visual Novel** — *Unreal Engine 5 + Ren'Py*
