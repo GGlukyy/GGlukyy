@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lukáš 👋</h1>
+<h1 align="center">Hi, I'm Lukáš </h1>
 <h3 align="center">Game Designer · Unity Developer · 3D & AI Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🎮 About me
+###  About me
 
 2nd-year **Game Design** student focused on **Unity development, 3D graphics and AI integration**. I build small, atmospheric games solo — from mechanics and scripting to level design and mood. Currently doing a professional internship in the **Gaming Division at Komerční banka**, doing market research and 3D asset creation.
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ What I work with
+###  What I work with
 
 **Game Engines** &nbsp;·&nbsp; Unity *(advanced)* · Unreal Engine 5 *(basics)*
 **3D Graphics** &nbsp;·&nbsp; Blender *(intermediate)*
@@ -38,7 +38,7 @@
 
 ---
 
-### 🚧 Selected projects
+###  Selected projects
 
 ** 3D FPS Horror Game** — *Unity · exam project*
 Full solo development of a horror game set in a metro environment: game mechanics, level design and atmosphere building.
@@ -46,17 +46,17 @@ Full solo development of a horror game set in a metro environment: game mechanic
 ** 2D Level Design** — *Unity*
 Design and implementation of a complete 2D game level — environment layout, traversal and pacing.
 
-**🎞️ Visual Novel** — *Unreal Engine 5 + Ren'Py*
+** Visual Novel** — *Unreal Engine 5 + Ren'Py*
 Short atmospheric visual novel with photorealistic environments built in Unreal Engine 5.
 
-**👾 Bitsy Adventure** — *Bitsy*
+** Bitsy Adventure** — *Bitsy*
 Short 2D pixel adventure focused on atmosphere, narrative and level design.
 
-> 🎨 Playable builds live on my **[itch.io portfolio →](https://ggluki.itch.io)**
+>  Playable builds live on my **[itch.io portfolio →](https://ggluki.itch.io)**
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Komerční banka — Gaming Division** · *Professional Internship (ongoing)*
 Gaming market research · benchmarking gaming programmes across financial institutions · 3D icons and visual assets for KB gaming products.
